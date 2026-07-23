@@ -18801,7 +18801,7 @@ solid ASCII
       vertex   -1.285355e+01 -2.164645e+01 2.933750e+02
     endloop
   endfacet
-  facet normal -7.730105e-01 6.343933e-01 -2.858957e-15
+  facet normal -7.730105e-01 6.343933e-01 -2.862928e-15
     outer loop
       vertex   -1.291573e+01 -2.172221e+01 2.910843e+02
       vertex   -1.285355e+01 -2.164645e+01 2.933750e+02
